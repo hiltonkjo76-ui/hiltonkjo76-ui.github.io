@@ -22,5 +22,17 @@
         "C7:4A:50:14:71:96:BD:29:7A:77:C2:65:08:49:F6:9A:9C:DB:09:BB:91:F7:A2:99:22:96:0A:3E:7F:05:24:64"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hkjo.inventario",
+      "sha256_cert_fingerprints": [
+        "C7:4A:50:14:71:96:BD:29:7A:77:C2:65:08:49:F6:9A:9C:DB:09:BB:91:F7:A2:99:22:96:0A:3E:7F:05:24:64"
+      ]
+    }
   }
 ]
